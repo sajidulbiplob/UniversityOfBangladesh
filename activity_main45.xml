@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView13"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context="com.example.sabittahsin.informationofuniversity.Main7Activity"
+        tools:showIn="@layout/activity_main16">
+
+        <ImageView
+            android:layout_marginTop="60dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/aiub"
+            android:id="@+id/imageView9" />
+
+
+        <TextView
+            android:background="#a5faa2"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="2dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="American International University-Bangladesh (Bengali: আমেরিকান ইন্টারন্যাশনাল ইউনিভার্সিটি-বাংলাদেশ), commonly known as AIUB is an accredited and renowned private university located at Banani in Dhaka, Bangladesh.The university is an independent organization with its own Board of Trustees. It offers several degree programs at graduate and undergraduate level from its four faculties.\n\n
+History\n
+ The university was established in 1994 as AMA International University Bangladesh, a joint venture between AMA Computer University of the Philippines, and local sponsor Anwarul Abedin. Regular academic classes started in 1995. AMA Computer University later left the partnership, and in 2001 the university was renamed American International University-Bangladesh.\n\n
+
+Campuses\n
+ The University is on Kemal Atatürk Avenue, Banani, Dhaka. It has six commercial buildings with two administrative buildings. Different building include different faculties and departments:\n
+•	Administration Building.\n
+•	FASS Building: Faculty of Arts and Social Sciences, Department of Math, Department of Basic Sciences and Department of Architecture. \n
+•	FBA Building: Faculty of Business Administration. \n
+•	FE Building: Faculty of Engineering and Department of Computer Engineering, Department of Electrical and Electronic Engineering. \n
+•	FSIT Building: Faculty of Science and Information Technology and the IT Department. \n
+•	AIUB IQAC Building: Office of Pro VC, Office of FBA Dean and AIUB IQAC. \n
+•	Account and Audit Building: Accounts and Audit Sections. \n\nOn 27 March 2012, the cornerstone was laid for a permanent campus on 7.33 acres (2.97 ha) at Kuratoli Road, Kuril. A total building area of 1,300,000 square feet (120,000 m2) is planned. It was designed by architects Soontorn Boonyatikarm and Associates of Thailand and Gazi Tariq Mahmood of Bangladesh.\n\n
+Permanent campus\n
+On 27 March 2012, the cornerstone was laid for a permanent campus on 7.33 acres (2.97 ha) at Kuratoli Road, Kuril. A total building area of 1,300,000 square feet (120,000 m2) is planned. It was designed by architects Soontorn Boonyatikarm and Associates of Thailand and Gazi Tariq Mahmood of Bangladesh.\n\n
+Admission\n
+Each applicant has to pass the competitive admission test administered by the university.[8][9] The admission examination tests each student's potential to successfully pursue the undergraduate or graduate degree programs. Undergraduate studies of the university is of high standard and is well accepted in both home and abroad for further higher studies. In admission test university strongly judge applicant by his knowledge of math and English language. Because the official language of AIUB is English. No IELTS score is acceptable without admission test, only TOEFL is acceptable.\n\n
+Academics\nThe medium of instruction of all academic programs at AIUB is English. Classes are conducted by full participation of students (discussion, question-answer). Design projects and thesis works emphasize on the ability of the student's analytical, designing and implementation skills of various state of the art technologies in the field of science and engineering.\n\n
+Programs\nThe academic programs are divided among the Faculty of Arts and Social Sciences, Faculty of Business Administration, Faculty of Engineering, and Faculty of Science and Information Technology. All the faculties offer both undergraduate and graduate level studies.\n\n
+
+Faculty of Arts and Social Sciences
+•	Bachelor of Arts (BA) in\n
+•	Media and Mass Communication\n
+•	English\n
+•	Bachelor of Social Science (BSS) in\n
+•	Economics\n
+•	Bachelor of Laws (LL.B) \n
+•	Masters in Public Health (MPH) \n
+•	Masters in Development Studies (MDS) \n\n
+Faculty of Business Administration\n
+•	Bachelor of Business Administration (BBA), Major in\n
+•	Accounting and Finance\n
+•	Economics\n
+•	Human Resource Management (HRM) \n
+•	International Business (IB) \n
+•	Investment Management (IM) \n
+•	Management\n
+•	Management Information Systems (MIS) \n
+•	Marketing\n
+•	Operations and Supply Chain Management (OSCM) \n
+•	Tourism and Hospitality Management (THM) \n
+•	Master of Business Administration (MBA), Major in\n
+•	Accounting\n
+•	Agri-Business\n
+•	Business Economics\n
+•	Finance\n
+•	Human Resource Management (HRM) \n
+•	Management\n
+•	Management Information Systems (MIS) \n
+•	Marketing\n
+•	Operations and Supply Chain Management (OSCM) \n
+•	Executive Master of Business Administration (EMBA) \n\n
+Faculty of Engineering\n
+•	Bachelor of Science (BSc) in\n
+•	Electrical and Electronic Engineering (EEE) \n
+•	Computer Engineering (CoE) \n
+•	Bachelor of Architecture (BArch) \n
+•	Master of Science in Electrical and Electronic Engineering (MEEE) \n
+•	Master of Engineering in Telecommunications (MTEL) \n\n
+Faculty of Science and Information Technology\n
+•	Bachelor of Science (BSc) in\n
+•	Computer Information Systems (CIS) \n
+•	Computer Science (CS) \n
+•	Computer Science and Engineering (CSE) \n
+•	Computer Science and Software Engineering (CSSE) \n
+•	Software Engineering (SE) \n
+•	Master of Science in Computer Science (MSCS) \n\n
+Apart from that, AIUB is the first university of the nation to offer the Agribusiness MBA (AgMBA) program. \n\n
+Semesters\n
+The academic year of the university incorporates three semesters (Spring, Summer and Fall). Fall and Spring are the regular semester where Summer is an optional semester. The duration of each semester is 15 weeks.\n\n
+•	Spring Semester [Regular Semester]: January to April\n
+•	Summer Semester [Optional Semester]: May to August\n
+•	Fall Semester [Regular Semester]: September to December\n\n
+Graduation Requirement
+\n
+Minimum CGPA requirement for graduation in any undergraduate and graduate program at AIUB is 2.50 .
+
+
+
+
+
+"
+            android:id="@+id/textView17" />
+    </LinearLayout>
+</ScrollView>

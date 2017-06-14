@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView13"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context="com.example.sabittahsin.informationofuniversity.Main7Activity"
+        tools:showIn="@layout/activity_main16">
+
+        <ImageView
+            android:layout_marginTop="60dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/bubt"
+            android:id="@+id/imageView9" />
+
+
+        <TextView
+            android:background="#a5faa2"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="2dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Bangladesh University of Business and Technology (Bengali: বাংলাদেশ ইউনিভার্সিটি অফ বিজনেস অ্যান্ড টেকনোলজি) or BUBT is one of the eight private universities to receive the green Signal from the government, located in Mirpur, Dhaka, Bangladesh. The university was established under the Private University Act 1992. BUBT is regulated by the Bangladesh University Grants Commission (UGC).\n\n
+BUBT was founded in 2003 under the authority of the Private University Act and was approved by the University Grants Commission (UGC)  and the Ministry of Education, Government of Bangladesh. It was modeled after North American universities. It started its operation in the Dhaka Commerce College campus, the founder organization of BUBT. It is running its programs in its own campus at Rupnagar R/A, Mirpur. Classes are also held at Dhaka Commerce College campus. In 2011 UGC has ranked BUBT as one of the best eight private universities. Around 1,000 students were awarded with their graduate and post graduate degrees in the first convocation this year (2011). BUBT is a member of the Association of Commonwealth Universities.\n\n
+
+Bangladesh University of Business and Technology (BUBT) has a location in Mirpur, Dhaka, adjacent to Dhaka Commerce College, the National Zoo and the Botanical Garden. The administrative and academic activities of BUBT are carried out in a newly constructed south facing eleven storeyed spacious building having amenities for teaching and learning. The building will ultimately be raised to 20 levels having more than 150,000 squire feet space under the same roof. \n\n
+
+Faculty of Business\n
+BBA (Major in Accounting, Finance, Marketing and HRM )\n\n
+Faculty of Engineering and Applied Sciences\n
+B. Sc. Engineering. in EEE for Diploma Engineers\n
+B. Sc. in CSIT (Four-year Program)\n
+B. Sc. in CSIT for Diploma Engineers\n
+B. Sc. Engineering. in CSE (Four-year Program) \n
+B. Sc. in Textile Engineering (Four-year Program) \n
+B. Sc. in Textile Engineering for Diploma Engineers\n
+B. Sc. Engineering. in CSE for Diploma Engineers\n
+B. Sc. Engineering. in EEE (Four-year Program) \n\n
+Faculty of Arts and Humanities \n
+•	BA (Hons.) in English\n\n
+Faculty of Social Sciences\n
+•	B. Sc. (Hons.) in Economics\n
+•	B. Sc. (Hons.) in Environment and Development Economics\n\n
+Faculty of Law\n
+•	LL. B (Hons.) (Four-year Program)\n\n
+Graduate programs\n\n
+Faculty of Business\n
+•	EMBA (Major in Accounting, Finance, Marketing and HRM) \n
+•	MBM (Two year evening program) \n
+•	MBA (Major in Accounting, Finance, Marketing, Management and HRM) \n\n
+Faculty of Arts and Humanities\n
+•	M. A. in English (Two-year evening program) \n
+•	M. A. in English Language Teaching (ELT) \n\n
+Faculty of Social Sciences\n
+•	M. Sc. in Economics (One-year evening program) \n\n
+Faculty of Mathematical and Physical Science\n
+•	M. Sc. in Mathematics (General: Two-year evening program) \n
+•	M. Sc. in Mathematics (General: One-year evening program) \n
+•	M. Sc. in Mathematics (Thesis: Two-year evening program) \n
+•	M. Sc. in Mathematics (Thesis: One-year evening program) \n\n
+Faculty of Law\n
+•	LL. B (Two-year evening program) \n
+•	LL. M (Two-year evening program) \n
+•	LL. M (One-year evening program) \n\n
+BUBT follows a model of higher education consisting of semesters, courses, credit hours, continuous evaluation and letter grading. The academic year begins from October and runs through September of the following year. An academic year is divided into the following three semesters:\n
+Fall  : October - January\n
+Spring : February - May\n
+Summer : June - September\n\n
+The semester duration is usually of fifteen weeks-thirteen weeks for classes and two weeks for final examination and result.
+"
+            android:id="@+id/textView17" />
+    </LinearLayout>
+</ScrollView>

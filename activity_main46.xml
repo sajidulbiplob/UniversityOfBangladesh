@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView13"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context="com.example.sabittahsin.informationofuniversity.Main7Activity"
+        tools:showIn="@layout/activity_main16">
+
+        <ImageView
+            android:layout_marginTop="60dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/diu"
+            android:id="@+id/imageView9" />
+
+
+        <TextView
+            android:background="#a5faa2"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginTop="2dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="Daffodil International University (DIU; Bengali: ড্যাফোডিল আন্তর্জাতিক বিশ্ববিদ্যালয়]) is a co-educational private university located in Dhanmondi, Dhaka, Bangladesh. It was established on 24 January 2002 under the Private University Act, 1992.\n\n
+DIU is the first university in Bangladesh to have signed the UN's Commitment to Sustainable Practices of Higher Education Institutions.\n\n
+History\n
+The university was established in 2002 with the approval of the University Grants Commission (Bangladesh)  and the Government of Bangladesh's Ministry of Education. \n\n
+Campuses\n
+The university has multiple campuses within Dhaka. The main campus is located in Dhanmondi and the permanent campus is in Asulia. \n\n
+Academics\n
+Faculties and departments\n
+The University offers bachelor's, master's and doctoral degrees through its 23 departments, themselves organized into 5 faculties: \n\n
+1.	Faculty of Science and Information Technology\n
+2.	Department of Computer Science and Engineering\n
+•	Department of Environmental Science and Disaster Management\n
+•	Department of Software Engineering\n
+•	Department of Multimedia and Creative Technology\n
+•	Department of Natural Sciences\n
+3.	Faculty of Business and Economics\n
+•	Department of Business Administration\n
+•	Department of Commerce\n
+•	Department of Real Estate\n
+•	Department of Tourism and Hospitality Management\n
+•	Department of Entrepreneurship Development\n
+4.	Faculty of Engineering\n
+•	Department of Electronics and Telecommunication Engineering\n
+•	Department of Textile Engineering\n
+•	Department of Electrical and Electronic Engineering\n
+•	Department of Architecture\n
+•	Department of Civil Engineering (Proposed) \n
+5.	Faculty of Applied Health Science\n
+•	Department of Pharmacy\n
+•	Department of Nutrition and Food Engineering\n
+•	Department of Public Health\n
+•	Department of Life Science\n
+•	Department of Genetic And Biotechnology\n
+6.	Faculty of Humanities and Social Science\n
+•	Department of English\n
+•	Department of Law\n
+•	Department of Journalism and Mass Communication\n\n
+List of vice chancellors\n
+•	Aminul Islam (2002–2011) \n
+•	M. Lutfar Rahman (2011-2015) \n
+•	Yousuf Mahbubul Islam (2015–present) \n\n
+Institutes\n
+DIU has two institutes and two center: \n
+•	Daffodil Institutes of Languages\n
+•	Daffodil Institute of IT (DIIT) \n
+•	Career Development Centre (CDC) \n
+•	Research Center\n\n
+Student organizations\n
+•	Creative Park (CP) Department of MCT\n
+•	IEEE DIU Student Branch\n
+•	EEE Club\n
+•	Robotics Club\n
+•	Cultural Club\n
+•	Debating Club\n
+•	Sports Club\n
+•	English Literary Club\n
+•	Daffodil Moot Court Society (DMCS) \n
+•	Air Rover Wing\n
+•	Social Business Students’ Forum (SBSF) \n
+•	Daffodil Prothom- Alo BondhuShova\n
+•	Nature Study Club (DIUNSC) \n
+•	Health Club (DIUHC) \n
+•	Communication Club\n
+•	Pharmacia Club\n
+•	Textile Club\n
+•	DIU MUNA (Model United Nations Association) \n
+•	Career Club\n
+•	Entrepreneurship Club\n
+•	Business and Education Club\n
+•	DIU Real Estate Association\n
+•	Software Engineering Club (SEC) \n
+•	Computer and Programming Club (CPC) \n
+•	Volunteer Service Club\n
+•	Cyber Security Club\n
+•	DIU Photography Society\n\n
+•	Online admissions\n
+The University facilitates online admission for applicants from distant areas. \n\n
+
+Achievements\n
+•	CSIC 5th-ranked university in Bangladesh\n
+•	4ICU 7th-ranked university in Bangladesh based on web popularity (2013) \n
+•	Membership, International Association of Universities (2013) \n\n
+D. Litt. conferred by DIU\n
+
+Daffodil International University authority conferred the D.Litt. Honoris Causa on philanthropist and entrepreneur Achyuta Samanta in DIU's 4th Convocation on 6 March 2014.
+
+
+
+
+"
+            android:id="@+id/textView17" />
+    </LinearLayout>
+</ScrollView>
